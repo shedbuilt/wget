@@ -1,0 +1,5 @@
+NAME=wget
+VERSION=1.19.1
+REVISION=1
+SRC=https://ftp.gnu.org/gnu/wget/wget-1.19.1.tar.xz
+SRCMD5=d30d82186b93fcabb4116ff513bfa9bd
