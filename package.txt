@@ -1,7 +1,7 @@
 NAME=wget
 VERSION=1.19.5
 REVISION=1
-SRC=https://ftp.gnu.org/gnu/wget/wget-1.19.5.tar.gz
+SRC=https://mirrors.kernel.org/gnu/wget/wget-1.19.5.tar.gz
 SRCMD5=2db6f03d655041f82eb64b8c8a1fa7da
 OPTIONS=bootstrap|release
 DEFAULTS=release
